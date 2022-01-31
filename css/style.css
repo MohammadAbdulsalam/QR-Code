@@ -22,9 +22,8 @@ body {
 }
 /* End Global Rules */
 .qr-code {
-    margin: 100px;
     padding: 1px;
-    margin: 100px auto;
+    margin: 120px auto;
     width: 325px;
     height: 500px;
     text-align: center;
