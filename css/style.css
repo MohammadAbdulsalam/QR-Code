@@ -23,9 +23,9 @@ body {
 /* End Global Rules */
 .qr-code {
     padding: 1px;
-    margin: 120px auto;
+    margin: 130px auto;
     width: 325px;
-    height: 500px;
+    height: 530px;
     text-align: center;
     background-color: hsl(0, 0%, 100%);
     border-radius: 10px;
